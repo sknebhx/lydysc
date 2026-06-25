@@ -19,6 +19,10 @@
     {
       "sourceName": "运输车",
       "sourceUrl": "https://weixine.net/api.json"
+    },
+    {
+      "sourceName": "电视直播",
+      "sourceUrl": "https://live.fanmingming.cn/tv/m3u/ipv6.m3u"
     }
   ]
 }
