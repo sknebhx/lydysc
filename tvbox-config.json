@@ -22,7 +22,7 @@
     },
     {
       "sourceName": "电视直播",
-      "sourceUrl": "https://live.fanmingming.cn/tv/m3u/ipv6.m3u"
+      "sourceUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/ipv4.txt"
     }
   ]
 }
