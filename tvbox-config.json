@@ -1,0 +1,24 @@
+{
+  "storeHouse": [
+    {
+      "sourceName": "肥猫源",
+      "sourceUrl": "http://hello.肥猫.com"
+    },
+    {
+      "sourceName": "饭太硬",
+      "sourceUrl": "http://www.饭太硬.com/tv"
+    },
+    {
+      "sourceName": "道长源",
+      "sourceUrl": "https://pastebin.com/raw/5NHaxyGR"
+    },
+    {
+      "sourceName": "巧儿源",
+      "sourceUrl": "http://pandown.pro/tvbox/tvbox.json"
+    },
+    {
+      "sourceName": "运输车",
+      "sourceUrl": "https://weixine.net/api.json"
+    }
+  ]
+}
