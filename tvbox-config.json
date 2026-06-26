@@ -1,24 +1,24 @@
 {
   "storeHouse": [
     {
-      "sourceName": "肥猫源",
-      "sourceUrl": "http://hello.肥猫.com"
-    },
-    {
       "sourceName": "饭太硬",
-      "sourceUrl": "http://www.饭太硬.com/tv"
+      "sourceUrl": "http://www.饭太硬.net/tv"
     },
     {
-      "sourceName": "道长源",
-      "sourceUrl": "https://pastebin.com/raw/5NHaxyGR"
+      "sourceName": "高天流云",
+      "sourceUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"
     },
     {
-      "sourceName": "巧儿源",
-      "sourceUrl": "http://pandown.pro/tvbox/tvbox.json"
+      "sourceName": "XYQ多仓",
+      "sourceUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json"
     },
     {
-      "sourceName": "运输车",
-      "sourceUrl": "https://weixine.net/api.json"
+      "sourceName": "qist源",
+      "sourceUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/jsm.json"
+    },
+    {
+      "sourceName": "天微多仓",
+      "sourceUrl": "https://tvkj.top/DC.txt"
     },
     {
       "sourceName": "电视直播",
